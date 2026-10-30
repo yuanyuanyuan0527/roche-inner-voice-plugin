@@ -1,0 +1,10 @@
+{
+  "id": "roche-inner-voice-archive",
+  "name": "心声档案",
+  "version": "0.1.0",
+  "description": "自动记录聊天页面中的心声卡片，按角色与时间保存并提供历史回看。",
+  "permissions": [
+    "storage"
+  ],
+  "main": "plugin.js"
+}
